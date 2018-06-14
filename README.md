@@ -1,2 +1,2 @@
 # sorting-algorithms
-Sorting algorithms of our java course at DHBW
+Sorting algorithms of our computer science course at DHBW
